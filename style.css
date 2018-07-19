@@ -1,3 +1,22 @@
-#rabbits{
-    text-align:center;rabbits"
+#p1{
+   background-color: yellow;color:green;
+}
+#p2{color:red;
+}
+#p3{background-color: yellow;color:blue;
+}
+#first{
+    text-align: center;color: red;font-family:Noto+Serif;font-size: x-large
+}
+body{
+    background-color: lightyellow;
+}
+#great{
+    color:blue;
+}
+.list{
+    color: #7ef9ff
+}
+#unlike{
+    color: red
 }
